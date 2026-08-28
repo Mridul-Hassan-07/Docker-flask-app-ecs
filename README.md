@@ -10,3 +10,4 @@ docker run -dp 80:80 <image name>
 curl http://localhost:80
 
 #output
+<img width="1920" height="1080" alt="output" src="https://github.com/user-attachments/assets/78340554-05fe-45ea-91cf-a105ab6b8d42" />
